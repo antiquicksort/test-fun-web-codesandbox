@@ -52,7 +52,7 @@ export default function App() {
             index: 1253
         }).catch()
     }
-
+    
   return (
     <div className="App">
         <Link to="/">back</Link>
